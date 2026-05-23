@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Finance Reporting Automation & Data Validation Tool
 Overview
 
@@ -154,3 +155,6 @@ Automated reporting and exception handling workflows
 Practiced clean project structure and SDLC principles
 
 
+=======
+# finance-reporting-automation
+>>>>>>> 715dc51090313a08af81859c811976e13a5cdf47
